@@ -1,0 +1,50 @@
+touch "* text:'Logout'"
+query "*", :id
+query "*", :id
+touch "* text:'Logout'"
+touch "* text:'Logout'"
+query "*", :id
+touch "* id:'menu_logout'"
+query "* id:'menu_logout'"
+query "* id:'menu_item_label'"
+query "*", :id
+query "* id:'material_dialog_positive'"
+touch "* id:'material_dialog_positive'"
+touch "* id:'material_dialog_positive'"
+exit
+start_test_server_in_background
+start_test_server_in_background
+start_test_server_in_background
+exit
+reinstall_test_server
+exit
+start_test_server_in_background
+query "*", :id
+query "*"
+query "*", :id
+touch "* id:'
+    [ 0] nil,
+    [ 1] nil,
+    [ 2] nil,
+    [ 3] "action_bar_root",
+    [ 4] "content",
+    [ 5] "drawer_layout",
+    [ 6] nil,
+    [ 7] "action_bar",
+    [ 8] "action_bar_title",
+    [ 9] nil,
+    [10] nil,
+    [11] "main_layout",
+    [12] "wish_list_layout",
+    [13] "scroll_list",
+    [14] "list_wish_list_layout",
+    [15] "wish_list_empty",
+    [16] nil,
+    [17] "empty_view_message_layout",
+    [18] "empty_view_image",
+    [19] "empty_view_title",
+    [20] "empty_view_message",
+    [21] "empty_view_action",
+main_activity
+main_activity(this)
+exit
